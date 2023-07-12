@@ -13,9 +13,6 @@
 <a href="https://twitter.com/RunaAnderson" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>  
-  
-
-
 
 ### Glad to see you here!  
 I am a System Administrator who works independently and also a Graphic Designer who has 5 years experince there, except for my SysAdmin job which is still only 8 months experience. I use operating systems such as Windows 10/11 and Linux distributions in my systems management work such as Debian Sid, openSUSE Tumbleweed, Void Linux, and several other Linux distributions.
@@ -24,10 +21,6 @@ I work the hours I want and whenever I have an Internet connection. So if I'm no
 
 Outside of my job, I am a gamer who enjoys playing FPS games, especially the Call of Duty series. Not only that, I am also a junior level writer who enjoys writing personal journals and novels, although some are still drafts, hopefully in the future they can be published to the public. I try to balance my serious work time with time working on a hobby that I am constantly pursuing.  
   
-
-<br/>  
-
-
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
@@ -41,16 +34,6 @@ Outside of my job, I am a gamer who enjoys playing FPS games, especially the Cal
   
 
 - ⚡ Fun fact: I have a specially ability just like Teacher, but I'm still young  
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
 
 ## Languages and Tools  
 <div align="center">  
@@ -73,7 +56,6 @@ Outside of my job, I am a gamer who enjoys playing FPS games, especially the Cal
 
 <br/>  
 
-
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
@@ -87,16 +69,10 @@ Outside of my job, I am a gamer who enjoys playing FPS games, especially the Cal
 
 <br/>  
 
+## Music I've played on Spotify 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31oystsun4kjryykobophm3li75u&cover_image=true&theme=default&show_offline=false&background_color=f5c7eb&interchange=true&bar_color=1da4e7&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31oystsun4kjryykobophm3li75u&redirect=true)
 
-
-### Music I've played on Spotify  
-![Listening to on Spotify]([[https://spotify-github-profile.vercel.app/api/view.svg?uid=31oystsun4kjryykobophm3li75u&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31oystsun4kjryykobophm3li75u&cover_image=true&theme=default&show_offline=true&background_color=f5c7eb&interchange=false&bar_color=1da4e7&bar_color_cover=false)  
-
-<br/>  
-
-
-
-### My visitor stats  
+## My visitor stats  
 ![Profile views counter](https://komarev.com/ghpvc/?username=runa-chin&&style=flat-square)  
   
 
@@ -105,5 +81,3 @@ Outside of my job, I am a gamer who enjoys playing FPS games, especially the Cal
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
