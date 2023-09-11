@@ -14,7 +14,9 @@
 ### Glad to see you here!  
 I am a System Administrator who works independently and also a Graphic Designer who has 5 years experince there, except for my SysAdmin job which is still only 8 months experience. I use operating systems such as Windows 10 and Linux distributions in my systems management work such as Debian Sid, openSUSE Tumbleweed, Void Linux, and several other Linux distributions.
 
-I work the hours I want and whenever I have an Internet connection. So if I'm not connected to the internet it means I'm not working. Currently I have not entered any company for me to work, and as much as possible I will remain independent in the future. Now, I am a Virtual Influencer where I will teach the public about how good the FOSS ecosystem and teaches how extraordinary GNU/Linux competes with Microsoft Windows as a free and free operating system and open sources where we are free to improvise Linux kernels which are alternatives The best of other operating systems that are widely used.
+I work the hours I want and whenever I have an Internet connection. So if I'm not connected to the internet it means I'm not working. Currently I have not entered any company for me to work, and as much as possible I will remain independent in the future.
+
+Now, I am a Virtual Influencer where I will teach the public about how good the FOSS ecosystem and teaches how extraordinary GNU/Linux competes with Microsoft Windows as a free and free operating system and open sources where we are free to improvise Linux kernels which are alternatives The best of other operating systems that are widely used.
 
 Outside of my job, I am a gamer who enjoys playing FPS games, especially the Call of Duty series. Not only that, I am also a junior level writer who enjoys writing personal journals and novels, although some are still drafts, hopefully in the future they can be published to the public. I try to balance my serious work time with time working on a hobby that I am constantly pursuing.  
   
