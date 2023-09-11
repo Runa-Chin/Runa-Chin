@@ -1,8 +1,5 @@
-## Hello 👋, I'm Runa Inoue Anderson  
+## Hello everybody 👋 | It's me, Runa Inoue Anderson!
   
-
-
-
 ### Meet me at other social networks  
 <a href="https://github.com/runa-chin" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -15,25 +12,24 @@
 </a>  
 
 ### Glad to see you here!  
-I am a System Administrator who works independently and also a Graphic Designer who has 5 years experince there, except for my SysAdmin job which is still only 8 months experience. I use operating systems such as Windows 10/11 and Linux distributions in my systems management work such as Debian Sid, openSUSE Tumbleweed, Void Linux, and several other Linux distributions.
+I am a System Administrator who works independently and also a Graphic Designer who has 5 years experince there, except for my SysAdmin job which is still only 8 months experience. I use operating systems such as Windows 10 and Linux distributions in my systems management work such as Debian Sid, openSUSE Tumbleweed, Void Linux, and several other Linux distributions.
 
-I work the hours I want and whenever I have an Internet connection. So if I'm not connected to the internet it means I'm not working. Currently I have not entered any company for me to work, and as much as possible I will remain independent in the future.
+I work the hours I want and whenever I have an Internet connection. So if I'm not connected to the internet it means I'm not working. Currently I have not entered any company for me to work, and as much as possible I will remain independent in the future. Now, I am a Virtual Influencer where I will teach the public about how good the FOSS ecosystem and teaches how extraordinary GNU/Linux competes with Microsoft Windows as a free and free operating system and open sources where we are free to improvise Linux kernels which are alternatives The best of other operating systems that are widely used.
 
 Outside of my job, I am a gamer who enjoys playing FPS games, especially the Call of Duty series. Not only that, I am also a junior level writer who enjoys writing personal journals and novels, although some are still drafts, hopefully in the future they can be published to the public. I try to balance my serious work time with time working on a hobby that I am constantly pursuing.  
   
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Kodeter](https://github.com/kodeter) as Repo Manager and Moderator  
+- 🔭 I’m now Working on [BocchiTheBox](https://github.com/bocchithebox) as Project Founder and Lead Linux Administrator
   
 
-- 🌱 I’m currently learning Windows SDK/ADK, Linux Administration, and many more  
+- 🌱 I’m currently learning Windows SDK/ADK, Linux Administration, Influencing, and more
   
 
 - ❓ Ask me about anything related to Operating System and Computer Science  
   
 
-- ⚡ Fun fact: I have a specially ability just like Teacher, but I'm still young  
+- ⚡ Fun fact about me ? I have a specially ability just like Teacher, but I'm still young  
 
 ## Languages and Tools  
 <div align="center">  
@@ -56,28 +52,6 @@ Outside of my job, I am a gamer who enjoys playing FPS games, especially the Cal
 
 <br/>  
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=runa-chin&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=runa-chin&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-## Music I've played on Spotify 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31oystsun4kjryykobophm3li75u&cover_image=true&theme=default&show_offline=false&background_color=f5c7eb&interchange=true&bar_color=1da4e7&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31oystsun4kjryykobophm3li75u&redirect=true)
-
 ## My visitor stats  
 ![Profile views counter](https://komarev.com/ghpvc/?username=runa-chin&&style=flat-square)  
   
-
-<br/>  
-
-
-<br />
-
