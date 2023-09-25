@@ -12,7 +12,7 @@
 </a>  
 
 ### Glad to see you here!  
-I am a System Administrator who works independently and also a Graphic Designer who has 5 years experince there, except for my SysAdmin job which is still only 8 months experience. I use operating systems such as Windows 10 and Linux distributions in my systems management work such as Debian Sid, openSUSE Tumbleweed, Void Linux, and several other Linux distributions.
+I am a System Administrator who works independently and also a Graphic Designer who has 5 years experince there, except for my SysAdmin job which is almost 14 months experience. I use operating systems such as Windows 10 and Linux distributions in my systems management work such as Debian Sid, openSUSE Tumbleweed, Void Linux, and several other Linux distributions.
 
 I work the hours I want and whenever I have an Internet connection. So if I'm not connected to the internet it means I'm not working. Currently I have not entered any company for me to work, and as much as possible I will remain independent in the future.
 
