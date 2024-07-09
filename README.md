@@ -6,6 +6,7 @@
 </a>
 <a rel="me" href="https://social.gnuweeb.org/@runachin" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=mastodon style="margin-bottom: 5px;" />
+<a rel="me" href="https://social.gnuweeb.org/@runachin">Now I'm migrate from X into Mastodon.</a>
 </a>  
 
 ### Glad to see you here!  
