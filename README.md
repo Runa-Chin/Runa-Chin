@@ -6,8 +6,10 @@
 </a>
 <a rel="me" href="https://social.gnuweeb.org/@runachin" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=mastodon style="margin-bottom: 5px;" />
-<a rel="me" href="https://social.gnuweeb.org/@runachin">Now I'm migrate from X into Mastodon.</a>
-</a>  
+
+
+<a rel="me" href="https://social.gnuweeb.org/@runachin">Now I'm migrate from X into Mastodon.
+</a>
 
 ### Glad to see you here!  
 I am a System Administrator who works independently and also a Graphic Designer who has 5 years experince there, except for my SysAdmin job which is almost 14 months experience. I use operating systems such as Windows 11 and Linux distributions in my systems management work such as Debian Sid, openSUSE Tumbleweed, Void Linux, and several other Linux distributions.
